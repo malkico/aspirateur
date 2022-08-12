@@ -20,4 +20,4 @@ npm test
 
 ## À propos du projet
 - Le code écrit est optimisé pour respecter les bonnes pratiques SOLID
-- Une bibliothéque <JEST> est utilisée pour mettre en place des tests unitaires
+- Une bibliothéque JEST est utilisée pour mettre en place des tests unitaires
