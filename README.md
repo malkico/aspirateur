@@ -1,6 +1,6 @@
 # Démarrer
 
-1- instaler les dépendances :
+1- installer les dépendances :
 
 ```bash
 npm i
