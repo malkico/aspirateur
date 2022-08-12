@@ -1,0 +1,17 @@
+[{ 
+    "dimension" : {
+        "x" : 10,
+        "y": 10
+    },
+    "positionInit": {
+        "x" : 5,
+        "y" : 5,
+        "orientation" : "N"
+    },
+    "instructions" :"DADADADAA" ,
+    "positionFinale" : {
+        "x" : 5,
+        "y" : 6,  
+        "orientation" : "N"
+    } 
+}]
